@@ -99,6 +99,6 @@ lights = [light0,light1, light2,light3,light4,light5,
             light6, light7,light8,light9,
             light8,light7,light6,light5,light4,light3,
             light2,light1]
-#display.show(lights,loop=True,delay=2000)
-display.show(lights,loop=False,delay=2000)
+display.show(lights,loop=True,delay=2000)
+#display.show(lights,loop=False,delay=2000)
 time.sleep(5)
